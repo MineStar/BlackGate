@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>de.minestar</groupId>
   <artifactId>BlackGate</artifactId>
-    <version>1.7.9-R0.2-SNAPSHOT</version>
+    <version>1.6.4-R2-SNAPSHOT</version>
 
     <distributionManagement>
         <!-- use the following if you're not using a snapshot version. -->
@@ -52,7 +52,7 @@
         <dependency>
             <groupId>de.minestar</groupId>
             <artifactId>MinestarCore</artifactId>
-            <version>1.7.9-R0.2-SNAPSHOT</version>
+            <version>1.6.4_R2</version>
         </dependency>
     </dependencies>
 

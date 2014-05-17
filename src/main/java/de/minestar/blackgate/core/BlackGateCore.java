@@ -18,11 +18,13 @@
 
 package de.minestar.blackgate.core;
 
+import java.io.File;
+
 import de.minestar.minestarlibrary.AbstractCore;
 
 public class BlackGateCore extends AbstractCore {
 
-    public final static String NAME = "GreenMile";
+    public final static String NAME = "BlackGate";
 
     public BlackGateCore() {
         super(NAME);
