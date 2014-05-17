@@ -1,0 +1,4 @@
+name: BlackGate
+main: de.minestar.blackgate.core.BlackGateCore
+version: ${pom.version}
+depend: [MineStarLibrary, MinestarCore]
